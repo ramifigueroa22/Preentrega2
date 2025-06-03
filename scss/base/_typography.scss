@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: $color-secundario;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: $color-primario;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul li {
+  margin: 15px 0;
+  font-size: 1.2em;
+}
+
+.fcb {
+  color: $color-barcelona;
+}
+
+.arg {
+  color: $color-argentina;
+}
+
+.intermiami {
+  color: $color-miami;
+}
+
+.psg {
+  color: $color-psg;
+}

@@ -1,0 +1,19 @@
+
+
+// Utilidades
+@import "utilities/variables";
+@import "utilities/mixins";
+
+// Base
+@import "base/typography";
+
+// Layout
+@import "layout/header";
+@import "layout/main";
+@import "layout/secciones";
+
+// Componentes
+@import "components/menu";
+@import "components/galeria";
+@import "components/dato-curioso";
+@import "components/footer";

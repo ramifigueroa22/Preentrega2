@@ -1,0 +1,4 @@
+@mixin caja-con-sombra($radio, $sombra) {
+  border-radius: $radio;
+  box-shadow: $sombra;
+}

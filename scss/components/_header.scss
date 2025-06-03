@@ -1,0 +1,14 @@
+header {
+  background-color: $color-texto;
+  color: white;
+  padding: 20px;
+  text-align: center;
+
+  h1 {
+    @each $equipo, $color in $colores-equipos {
+      &.#{$equipo} {
+        color: $color;
+      }
+    }
+  }
+}
