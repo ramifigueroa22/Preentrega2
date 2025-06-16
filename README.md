@@ -17,7 +17,7 @@ Este es un sitio web que recorre la trayectoria futbolística de Lionel Messi, c
 - `/img/` (imágenes optimizadas)
 
 ## 🌐 Sitio publicado
-👉 [Ver sitio online](https://TU_LINK_DEL_HOSTING)
+👉 [Ver sitio online](https://figueroaramiro.infinityfreeapp.com)
 
 ## 📌 Descripción
 - Maquetado con HTML semántico
