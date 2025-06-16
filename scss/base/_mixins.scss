@@ -2,3 +2,13 @@
   border-radius: $radio;
   box-shadow: $sombra;
 }
+
+@include mobile {
+  header {
+    padding: 10px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}

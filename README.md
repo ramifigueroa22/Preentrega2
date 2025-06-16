@@ -1,12 +1,35 @@
 # La Carrera de Lionel Messi
 
-## Descripción
+Este es un sitio web que recorre la trayectoria futbolística de Lionel Messi, con secciones dedicadas a sus etapas en distintos equipos y la Selección Argentina.
 
-Este proyecto web es un sitio informativo que narra la carrera futbolística de Lionel Messi en distintos clubes y la selección nacional. Contiene páginas específicas para:
+## 🚀 Tecnologías utilizadas
+- HTML5
+- SCSS (SASS)
+- Bootstrap 5
+- Flexbox & CSS Grid
+- Animaciones y transiciones CSS
+- Responsive Design
 
-- FC Barcelona  
-- Paris Saint-Germain (PSG)  
-- Inter Miami  
-- Selección Argentina  
+## 📁 Estructura
+- `index.html`, `barcelona.html`, `psg.html`, `intermiami.html`, `argentina.html`
+- `/scss/` (archivos SASS)
+- `/css/` (CSS compilado)
+- `/img/` (imágenes optimizadas)
 
-El sitio incluye textos descriptivos, imágenes y enlaces para navegar fácilmente entre las distintas secciones.
+## 🌐 Sitio publicado
+👉 [Ver sitio online](https://TU_LINK_DEL_HOSTING)
+
+## 📌 Descripción
+- Maquetado con HTML semántico
+- Estilos avanzados con SASS + Bootstrap
+- Técnicas de SEO
+- Diseño 100% responsive
+- Subida del sitio a un servidor web
+
+## ⚡ SEO y accesibilidad
+- Uso de meta tags y atributos alt en imágenes
+- Títulos jerarquizados
+- Contrastes adecuados y navegación accesible
+
+## 📝 Autor
+- **Figueroa Ramiro**
